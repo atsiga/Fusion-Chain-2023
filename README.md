@@ -1,5 +1,5 @@
 # Fusion Chain: A Decentralized Lightweight Blockchain for IoT Security and Privacy
-February 2021, Electronics
+February 2021, Electronic
 
 
 https://www.mdpi.com/2079-9292/10/4/391
