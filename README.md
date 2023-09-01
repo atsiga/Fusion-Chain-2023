@@ -1,13 +1,3 @@
-# Fusion Chain: A Decentralized Lightweight Blockchain for IoT Security and Privacy
-February 2021, Electronic
-
-
-https://www.mdpi.com/2079-9292/10/4/391
-
-
-https://www.researchgate.net/publication/349058486_Fusion_Chain_A_Decentralized_Lightweight_Blockchain_for_IoT_Security_and_Privacy
-
-
 ### Start
 ```
 1. HTTP_PORT=3001 P2P_PORT=6001 npm start
